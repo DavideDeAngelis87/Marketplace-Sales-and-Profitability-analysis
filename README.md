@@ -2,7 +2,7 @@
 
 ### Descrizione del Progetto
 
-Sviluppo di una soluzione interattiva di Business Intelligence in Tableau per il monitoraggio end-to-end delle performance economico-logistiche della catena *Superstore* nel mercato europeo. 
+Sviluppo di una soluzione interattiva di Business Intelligence in Tableau ([link](https://public.tableau.com/views/EUSuperstoreanalysis/SupestoreEconomics?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) alle dashboard in Tableau Community) per il monitoraggio end-to-end delle performance economico-logistiche della catena *Superstore* nel mercato europeo. 
 Il progetto sostituisce le metodologie di reportistica statica con un ecosistema di due dashboard executive ad alta densità informativa e una **Tableau Story** orientata al decision-making strategico. L'analisi guida la riallocazione efficiente del budget marketing e l'ottimizzazione operativa attraverso l'isolamento dei colli di bottiglia logistici e delle inefficienze di margine.
 
 ### Workflow Tecnico e Metodologia
