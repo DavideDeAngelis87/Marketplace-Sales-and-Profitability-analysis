@@ -34,4 +34,4 @@ Il workflow visuale e analitico si articola su tre direttrici principali:
 ### Struttura del Repository
 
 * [EU Superstore Analysis](https://public.tableau.com/views/EUSuperstoreanalysis/SupestoreEconomics?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link): dashboard interattive e Tableau Story pubblicate su Tableau Community.
-* `Dataset_Superstore_Europe.csv`: dataset relazionale utilizzato per l'analisi.
+* `superstore.xlsx`: file excel utilizzato per l'analisi.
